@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorTranslator
 build_property.RootNamespace = BlazorTranslator
-build_property.ProjectDir = I:\Blazor-Translator-Azure-Cognitive-Services-master\Blazor-Translator-Azure-Cognitive-Services-master\BlazorTranslator\BlazorTranslator\
+build_property.ProjectDir = H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = I:\Blazor-Translator-Azure-Cognitive-Services-master\Blazor-Translator-Azure-Cognitive-Services-master\BlazorTranslator\BlazorTranslator
+build_property.MSBuildProjectDirectory = H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator
 build_property._RazorSourceGeneratorDebug = 
 
-[I:/Blazor-Translator-Azure-Cognitive-Services-master/Blazor-Translator-Azure-Cognitive-Services-master/BlazorTranslator/BlazorTranslator/App.razor]
+[H:/github repo/Language Translator/BlazorTranslator/BlazorTranslator/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Blazor-Translator-Azure-Cognitive-Services-master/Blazor-Translator-Azure-Cognitive-Services-master/BlazorTranslator/BlazorTranslator/Pages/Index.razor]
+[H:/github repo/Language Translator/BlazorTranslator/BlazorTranslator/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Blazor-Translator-Azure-Cognitive-Services-master/Blazor-Translator-Azure-Cognitive-Services-master/BlazorTranslator/BlazorTranslator/Pages/Translator.razor]
+[H:/github repo/Language Translator/BlazorTranslator/BlazorTranslator/Pages/Translator.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNsYXRvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Blazor-Translator-Azure-Cognitive-Services-master/Blazor-Translator-Azure-Cognitive-Services-master/BlazorTranslator/BlazorTranslator/Shared/SurveyPrompt.razor]
+[H:/github repo/Language Translator/BlazorTranslator/BlazorTranslator/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Blazor-Translator-Azure-Cognitive-Services-master/Blazor-Translator-Azure-Cognitive-Services-master/BlazorTranslator/BlazorTranslator/_Imports.razor]
+[H:/github repo/Language Translator/BlazorTranslator/BlazorTranslator/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Blazor-Translator-Azure-Cognitive-Services-master/Blazor-Translator-Azure-Cognitive-Services-master/BlazorTranslator/BlazorTranslator/Shared/MainLayout.razor]
+[H:/github repo/Language Translator/BlazorTranslator/BlazorTranslator/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-tf1ll2dwxy
 
-[I:/Blazor-Translator-Azure-Cognitive-Services-master/Blazor-Translator-Azure-Cognitive-Services-master/BlazorTranslator/BlazorTranslator/Shared/NavMenu.razor]
+[H:/github repo/Language Translator/BlazorTranslator/BlazorTranslator/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-c5y6ls74ar
 
-[I:/Blazor-Translator-Azure-Cognitive-Services-master/Blazor-Translator-Azure-Cognitive-Services-master/BlazorTranslator/BlazorTranslator/Pages/Error.cshtml]
+[H:/github repo/Language Translator/BlazorTranslator/BlazorTranslator/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/Blazor-Translator-Azure-Cognitive-Services-master/Blazor-Translator-Azure-Cognitive-Services-master/BlazorTranslator/BlazorTranslator/Pages/_Host.cshtml]
+[H:/github repo/Language Translator/BlazorTranslator/BlazorTranslator/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

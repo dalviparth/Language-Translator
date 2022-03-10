@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "p8iWNH0ii8T81ER2sAn/94lL0dHzv7J/2TwvnLQUeoM=",
+  "Hash": "MW/vEv88zplfq/eCSIjB6v4JV/gCn4bNl/EFF5vGFdE=",
   "Source": "BlazorTranslator",
   "BasePath": "_content/BlazorTranslator",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorTranslator\\wwwroot",
       "Source": "BlazorTranslator",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorTranslator.styles.css",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorTranslator.styles.css",
       "SourceId": "BlazorTranslator",
       "SourceType": "Computed",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "BlazorTranslator.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorTranslator.styles.css"
+      "OriginalItemSpec": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorTranslator.styles.css"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorTranslator.bundle.scp.css",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorTranslator.bundle.scp.css",
       "SourceId": "BlazorTranslator",
       "SourceType": "Computed",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "BlazorTranslator.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorTranslator.bundle.scp.css"
+      "OriginalItemSpec": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorTranslator.bundle.scp.css"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\site.css",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\css\\site.css",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\favicon.ico",
+      "Identity": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\favicon.ico",
       "SourceId": "BlazorTranslator",
       "SourceType": "Discovered",
-      "ContentRoot": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
+      "ContentRoot": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\wwwroot\\",
       "BasePath": "_content/BlazorTranslator",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

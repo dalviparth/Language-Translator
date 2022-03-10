@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9sU/E96u9earUOYaLbWHmotB20+0GrWNDhtdXzU+gVB3tdAGj9iOxDpY0crycPrg5KD4nQ3cSvp9WN59T9rOIw==",
+  "dgSpecHash": "FBSD158JG2/oZpOErfcB8QtlUTqHZXiYuS9s5nn9zvtU/gSAaAMQwKNGw2cFnZBGhtGRDrwZEW17P67/pI/2mQ==",
   "success": true,
-  "projectFilePath": "I:\\Blazor-Translator-Azure-Cognitive-Services-master\\Blazor-Translator-Azure-Cognitive-Services-master\\BlazorTranslator\\BlazorTranslator\\BlazorTranslator.csproj",
+  "projectFilePath": "H:\\github repo\\Language Translator\\BlazorTranslator\\BlazorTranslator\\BlazorTranslator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PARTH DALVI\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

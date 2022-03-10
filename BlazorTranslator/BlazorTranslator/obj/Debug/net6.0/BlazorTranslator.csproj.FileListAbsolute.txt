@@ -27,3 +27,32 @@ I:\Blazor-Translator-Azure-Cognitive-Services-master\Blazor-Translator-Azure-Cog
 I:\Blazor-Translator-Azure-Cognitive-Services-master\Blazor-Translator-Azure-Cognitive-Services-master\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.pdb
 I:\Blazor-Translator-Azure-Cognitive-Services-master\Blazor-Translator-Azure-Cognitive-Services-master\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.genruntimeconfig.cache
 I:\Blazor-Translator-Azure-Cognitive-Services-master\Blazor-Translator-Azure-Cognitive-Services-master\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\ref\BlazorTranslator.dll
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\bin\Debug\net6.0\appsettings.Development.json
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\bin\Debug\net6.0\appsettings.json
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\bin\Debug\net6.0\BlazorTranslator.staticwebassets.runtime.json
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\bin\Debug\net6.0\BlazorTranslator.exe
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\bin\Debug\net6.0\BlazorTranslator.deps.json
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\bin\Debug\net6.0\BlazorTranslator.runtimeconfig.json
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\bin\Debug\net6.0\BlazorTranslator.dll
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\bin\Debug\net6.0\BlazorTranslator.pdb
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.csproj.AssemblyReference.cache
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.GeneratedMSBuildEditorConfig.editorconfig
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.AssemblyInfoInputs.cache
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.AssemblyInfo.cs
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.csproj.CoreCompileInputs.cache
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.MvcApplicationPartsAssemblyInfo.cache
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.RazorAssemblyInfo.cache
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.RazorAssemblyInfo.cs
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\staticwebassets.build.json
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\staticwebassets.development.json
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\scopedcss\bundle\BlazorTranslator.styles.css
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\scopedcss\projectbundle\BlazorTranslator.bundle.scp.css
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.csproj.CopyComplete
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.dll
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\refint\BlazorTranslator.dll
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.pdb
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\BlazorTranslator.genruntimeconfig.cache
+H:\github repo\Language Translator\BlazorTranslator\BlazorTranslator\obj\Debug\net6.0\ref\BlazorTranslator.dll
